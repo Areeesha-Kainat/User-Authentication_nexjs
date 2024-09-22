@@ -2,7 +2,6 @@
 
 import Loader from '@/components/admin-panel/Loader'
 import Login from '@/components/admin-panel/Login'
-import Sidebar from '@/components/admin-panel/Sidebar'
 // import { useAppSelector } from '@/redux/hooks'
 import { useSession } from 'next-auth/react'
 import React from 'react'
