@@ -1,10 +1,3 @@
-
-
-![first user have to login to add blogs](C:\Users\Hp\Pictures\Screenshots\Screenshot (683).png "LOGIN")
-![User Authentication](C:\Users\Hp\Pictures\Screenshots\Screenshot (684).png "LogIn with Google")
-
-
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
